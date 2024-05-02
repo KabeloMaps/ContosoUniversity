@@ -1,7 +1,6 @@
 ﻿using ContosoUniversity.Models;
 using System;
 using System.Linq;
-using static ContosoUniversity.Models.Student;
 
 namespace ContosoUniversity.Data
 {
